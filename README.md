@@ -12,7 +12,7 @@ This repository contains my completion certificate for the Deloitte Data Analyti
 Deloitte (via Forage)
 
 ## 📜 Certificate
-![Certificate](delloite.pdf)
+![Certificate] delloite certification .pdf
 
 ## 🚀 Outcome
 Completed practical tasks simulating real-world data analytics scenarios.
